@@ -1,0 +1,47 @@
+C:\Users\SENA\source\repos\1\1\bin\Debug\1.exe.config
+C:\Users\SENA\source\repos\1\1\bin\Debug\1.exe
+C:\Users\SENA\source\repos\1\1\bin\Debug\1.pdb
+C:\Users\SENA\source\repos\1\1\bin\Debug\1.xml
+C:\Users\SENA\source\repos\1\1\obj\Debug\1.vbproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\1\1\obj\Debug\_1.Form1.resources
+C:\Users\SENA\source\repos\1\1\obj\Debug\_1.FormWin.resources
+C:\Users\SENA\source\repos\1\1\obj\Debug\_1.Resources.resources
+C:\Users\SENA\source\repos\1\1\obj\Debug\1.vbproj.GenerateResource.cache
+C:\Users\SENA\source\repos\1\1\obj\Debug\1.vbproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\1\1\obj\Debug\1.exe
+C:\Users\SENA\source\repos\1\1\obj\Debug\1.xml
+C:\Users\SENA\source\repos\1\1\obj\Debug\1.pdb
+C:\Users\SENA\source\repos\1\1\obj\Debug\_1.Form3.resources
+C:\Users\SENA\source\repos\1\1\obj\Debug\_1.Form4.resources
+C:\Users\SENA\source\repos\1\1\obj\Debug\_1.Form5.resources
+C:\Users\shara\Downloads\Slime Odyssey\1\1\bin\Debug\1.exe.config
+C:\Users\shara\Downloads\Slime Odyssey\1\1\bin\Debug\1.exe
+C:\Users\shara\Downloads\Slime Odyssey\1\1\bin\Debug\1.pdb
+C:\Users\shara\Downloads\Slime Odyssey\1\1\bin\Debug\1.xml
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\1.vbproj.AssemblyReference.cache
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\_1.Form1.resources
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\_1.Form3.resources
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\_1.Form4.resources
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\_1.Form5.resources
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\_1.Resources.resources
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\1.vbproj.GenerateResource.cache
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\1.vbproj.CoreCompileInputs.cache
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\1.exe
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\1.xml
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\1.pdb
+C:\Users\shara\Downloads\Slime Odyssey\1\1\obj\Debug\_1.Form2.resources
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\bin\Debug\1.exe.config
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\bin\Debug\1.exe
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\bin\Debug\1.pdb
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\bin\Debug\1.xml
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\1.vbproj.AssemblyReference.cache
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\_1.Form1.resources
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\_1.Form3.resources
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\_1.Form4.resources
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\_1.Form5.resources
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\_1.Resources.resources
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\1.vbproj.GenerateResource.cache
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\1.vbproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\1.exe
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\1.xml
+C:\Users\SENA\Documents\ADSO\Slime Odyssey\1\1\obj\Debug\1.pdb
